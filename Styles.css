@@ -1,0 +1,218 @@
+/* Header styles */
+
+.BC-img{
+    height: 650px;
+    width: 1300px;
+}
+
+.Bc-1st-paragrap{
+    position: relative;
+    bottom: 30rem;
+    margin-left: 750px;
+    color: #FFF;
+   font-family: Work Sans;
+   font-size: 65px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+}
+
+.believe{
+    margin-left: 210px;
+}
+
+.Bc-second-pera{
+    position: relative;
+    bottom: 32rem;
+    margin-right: 150px;
+    color: #FFF;
+text-align: right;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+
+.contact-us{
+    color: #005FAC;
+text-align: right;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: 1035px;
+position: relative;
+bottom: 32rem;
+border: 0;
+border-radius: 5px;
+}
+
+.previous-year-img{
+    position: relative;
+    bottom: 23rem;
+    width: 451px;
+   height: 600px;
+   margin-left: 100px;
+}
+
+.previous-explain-paragrap{
+    margin-left: 650px;
+    position: relative;
+    bottom: 53.5rem;
+}
+
+.previous-Year-intro{
+    color: var(--dark-01, #151414);
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.previous-Year-discussion{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+
+.total-my-plan{
+    display: flex;
+  justify-content: space-between;
+  margin: 200px;
+  position: relative;
+  bottom: 53.5rem;
+}
+
+.My-plans{
+    position: relative;
+    bottom: 45rem;
+    margin-left: 600px;
+}
+
+.gradient-pic{
+    position: relative;
+    bottom: 79rem;
+    border-radius: 8px;
+    margin-left: 80px;
+
+}
+
+.watch{
+    position: relative;
+    bottom: 60rem;
+    border-radius: 8px;
+    margin-left: 80px;
+
+}
+
+.gardient-peragrap{
+    position: relative;
+    bottom: 100rem;
+    margin-left: 120px;
+    color: #FFF;
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.call-now{
+    width: 160px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FFF;
+color: #005FAC;
+border: 0;
+font-size: 20px;
+}
+
+
+.total-footer-background{
+    background-color: #151414;
+    position: relative;
+    bottom: 90rem;
+    height: 577px;
+}
+
+.footer-details{
+    margin-left: 150px;
+    padding: 100px;
+}
+
+.total-footer-paragrap{
+    display: flex;
+   justify-content: space-between;
+}
+
+.input-iteam{
+
+    padding: 150px;
+}
+
+.futer{
+    color: #F8F8F8;
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.footer-peragrap{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+
+.email{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+
+.footer-icon{
+    margin: 5px;
+}
+
+.subscribe{
+    color: #FFF;
+font-family: Work Sans;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.footer-input{
+    width: 325px;
+height: 64px;
+flex-shrink: 0;
+}
+
+.subscrinbe-btn{
+    width: 170.106px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #005FAC;
+border: 0;
+color: #F8F8F8;
+font-size: 20px;
+
+border-radius: 8px;
+border: 1px solid #FFF;
+}
